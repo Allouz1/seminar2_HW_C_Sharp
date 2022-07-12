@@ -2,7 +2,6 @@
 int number = Convert.ToInt32(Console.ReadLine());
 string str = number.ToString();
 int i = 0;
-// int result = Convert.ToInt32(str[2].ToString());
 if (number > 99)
 {
     int result = Convert.ToInt32(str[2].ToString());
